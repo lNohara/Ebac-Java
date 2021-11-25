@@ -1,10 +1,10 @@
-package Modulo_11.Modulo_11;
+package Modulo_11.Colecoes_parte_2;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Colecoes_parte_2 {
+public class ExeciocioMod11 {
     public static void main(String[] args) {
         adicionaPessoaNaLista();
     }

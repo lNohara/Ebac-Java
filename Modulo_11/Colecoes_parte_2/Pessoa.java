@@ -1,4 +1,4 @@
-package Modulo_11.Modulo_11;
+package Modulo_11.Colecoes_parte_2;
 
 import java.util.Objects;
 
