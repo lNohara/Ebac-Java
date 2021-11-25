@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class ExercicoMod11 {
+public class Colecoes_parte_2 {
     public static void main(String[] args) {
         adicionaPessoaNaLista();
     }
