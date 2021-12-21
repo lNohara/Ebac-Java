@@ -1,6 +1,6 @@
-package Modulo_14.dao;
+package Modulo_14.console.dao;
 
-import Modulo_14.domain.Cliente;
+import Modulo_14.console.domain.Cliente;
 
 import java.util.Collection;
 

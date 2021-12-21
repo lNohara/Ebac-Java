@@ -1,4 +1,4 @@
-package Modulo_14.console.dao.domain;
+package Modulo_14.console.domain;
 
 import java.util.Objects;
 
