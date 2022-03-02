@@ -1,4 +1,4 @@
-package Modulo_18.Aula05;
+package br.com.lnohara.mod18.aula05;
 
 public class ClienteService {
 

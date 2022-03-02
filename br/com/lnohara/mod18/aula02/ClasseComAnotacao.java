@@ -1,4 +1,4 @@
-package Modulo_18.Aula02;
+package br.com.lnohara.mod18.aula02;
 
 @PrimeraAnotacao(value = "Valor da Classe", bairros = "Mooca", numeroCasa = 10, noaObrigatorio = 2.5)
 public class ClasseComAnotacao {

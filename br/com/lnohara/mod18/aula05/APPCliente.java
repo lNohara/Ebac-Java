@@ -1,6 +1,4 @@
-package Modulo_18.Aula05;
-
-import jdk.nashorn.internal.scripts.JO;
+package br.com.lnohara.mod18.aula05;
 
 import javax.swing.*;
 

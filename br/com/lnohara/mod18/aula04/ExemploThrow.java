@@ -1,4 +1,4 @@
-package Modulo_18.Aula04;
+package br.com.lnohara.mod18.aula04;
 
 public class ExemploThrow {
 

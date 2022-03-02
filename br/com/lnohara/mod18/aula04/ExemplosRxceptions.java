@@ -1,6 +1,4 @@
-package Modulo_18.Aula04;
-
-import java.util.Locale;
+package br.com.lnohara.mod18.aula04;
 
 public class ExemplosRxceptions {
     public static void main(String[] args) {

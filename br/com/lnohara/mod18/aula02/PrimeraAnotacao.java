@@ -1,4 +1,4 @@
-package Modulo_18.Aula02;
+package br.com.lnohara.mod18.aula02;
 import java.lang.annotation.*;
 
 @Documented

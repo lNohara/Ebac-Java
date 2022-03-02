@@ -1,4 +1,4 @@
-package Modulo_18.Exercicio;
+package br.com.lnohara.mod18.tarefa.anotation;
 
 import java.lang.annotation.*;
 
