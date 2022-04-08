@@ -1,4 +1,4 @@
-package Modulo_17.Aula03.cadastro.fabrica;
+package br.com.lnohara.mod19.aula04.fabrica;
 
 public class Factory implements IFactory {
 
